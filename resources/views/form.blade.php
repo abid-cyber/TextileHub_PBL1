@@ -29,15 +29,17 @@
     border-radius: 5px;
     border: none;
     }
-    .btn {
-    background-color: #3b82f6;
-    color: white;
-    padding: 10px;
-    width: 100%;
-    border: none;
-    border-radius: 5px;
-    cursor: pointer;
-    }
+    .btn { 
+background-color: #3b82f6; 
+color: white; 
+padding: 15px; 
+width: 80%; /* Sesuaikan ukuran */ 
+font-size: 18px; 
+border: none; 
+border-radius: 5px; 
+cursor: pointer; 
+margin-left: 50px; /* Geser ke kanan */ 
+}
     .social-icons {
     display: flex;
     justify-content: center;
